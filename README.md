@@ -222,10 +222,6 @@ If you are interested in the complete hardware implementation, want to collabora
 
 ---
 
-## Acknowledgements
-
-This project was developed under the supervision of **Prof. Ameer Mulla** at **IIT Dharwad**, Department of EECE.
-
 ---
 
 ## License
