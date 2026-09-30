@@ -53,8 +53,6 @@ Python (PS)
 | Device | xczu48dr-ffvg1517-2-e |
 | DAC Sample Rate | 6553.6 MSPS |
 | ADC Sample Rate | 4915.2 MSPS |
-| PL Clock | 99 MHz |
-| AXI Stream | 307.2 MHz |
 | Framework | PYNQ |
 | Loopback | J17 → J15 (SMA) |
 
@@ -137,7 +135,6 @@ Python (PS)
 | Implementation | Time | Speedup |
 |----------------|------|---------|
 | Pure software (Python) | 1.230 ms | 1.0× |
-| Hardware IP + 1ms sleep | 1.184 ms | 1.04× |
 | **Hardware IP (optimised)** | **184 µs** | **6.7×** |
 
 ---
